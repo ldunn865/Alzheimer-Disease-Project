@@ -1,5 +1,8 @@
 # Alzheimer-Disease-Project
 A supervised classification project predicting which subjects have Alzheimer's disease.
 
-# Motivation behind project
-As part of the Digital Futures training program our penultimate task was to decide on a project problem, find a solution and present our findings through a presentation. I chose a capstone project which aimed to differentiate Alzheimer disease patients from healthy subjects. Having family who suffered from this disease as well as learning about it in depth during my Neuroscience degree, I felt exploring how machine learning could be utilized in early diagnosis of this disease could have a positive impact on society.
+# Medium Article
+You can find the write up of my project here:https://medium.com/@laurendunn865/predicting-late-onset-alzheimer-disease-in-subjects-d1847b2172d4
+
+# LinkedIn
+Feel free to reach out to me with any questions or ideas on LinkedIn here: https://www.linkedin.com/in/lauren-dunn-144488160
